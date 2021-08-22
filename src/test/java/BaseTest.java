@@ -27,7 +27,7 @@ public class BaseTest {
     @Test
     void openBrowser(){
         System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/src/main/ext-files/chromedriver.exe");
-        WebDriver driver=new ChromeDriver();
+       // WebDriver driver=new ChromeDriver();
         System.out.println(prop.getProperty("Name"));
 
     }
