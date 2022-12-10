@@ -1,0 +1,30 @@
+[INFO ] 2022-12-10 19:40:41.320 [main] - Selenium Test intialization completed
+[ERROR] 2022-12-10 19:40:42.827 [main] - Sample ERROR message
+[INFO ] 2022-12-10 19:40:42.827 [main] - Sample INFO message
+[WARN ] 2022-12-10 19:40:42.828 [main] - Sample WARN message
+[INFO ] 2022-12-10 19:40:43.483 [main] - closing browser
+[INFO ] 2022-12-10 19:40:44.928 [main] - Selenium Test intialization completed
+[INFO ] 2022-12-10 19:40:45.411 [main] - logging into the saucelabs
+[INFO ] 2022-12-10 19:40:45.514 [main] - entered the username
+[INFO ] 2022-12-10 19:40:45.775 [main] - Successfully logged in
+[INFO ] 2022-12-10 19:40:46.405 [main] - closing browser
+[INFO ] 2022-12-10 19:40:59.044 [main] - Selenium Test intialization completed
+[ERROR] 2022-12-10 19:40:59.657 [main] - Sample ERROR message
+[INFO ] 2022-12-10 19:40:59.657 [main] - Sample INFO message
+[WARN ] 2022-12-10 19:40:59.657 [main] - Sample WARN message
+[INFO ] 2022-12-10 19:41:00.324 [main] - closing browser
+[INFO ] 2022-12-10 19:41:02.160 [main] - Selenium Test intialization completed
+[INFO ] 2022-12-10 19:41:02.832 [main] - logging into the saucelabs
+[INFO ] 2022-12-10 19:41:02.995 [main] - entered the username
+[INFO ] 2022-12-10 19:41:03.637 [main] - Successfully logged in
+[INFO ] 2022-12-10 19:41:04.341 [main] - closing browser
+[INFO ] 2022-12-10 19:44:05.711 [main] - Selenium Test intialization completed
+[ERROR] 2022-12-10 19:44:06.330 [main] - Sample ERROR message
+[INFO ] 2022-12-10 19:44:06.331 [main] - Sample INFO message
+[WARN ] 2022-12-10 19:44:06.331 [main] - Sample WARN message
+[INFO ] 2022-12-10 19:44:06.977 [main] - closing browser
+[INFO ] 2022-12-10 19:44:08.336 [main] - Selenium Test intialization completed
+[INFO ] 2022-12-10 19:44:08.917 [main] - logging into the saucelabs
+[INFO ] 2022-12-10 19:44:09.032 [main] - entered the username
+[INFO ] 2022-12-10 19:44:09.305 [main] - Successfully logged in
+[INFO ] 2022-12-10 19:44:09.942 [main] - closing browser
