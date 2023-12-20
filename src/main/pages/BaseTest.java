@@ -32,6 +32,7 @@ public class BaseTest {
     }
 
     public static void initialization(){
+        System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+ "/src/main/Util/chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
